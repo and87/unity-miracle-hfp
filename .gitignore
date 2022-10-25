@@ -57,6 +57,26 @@ sysinfo.txt
 *.aab
 *.unitypackage
 *.app
+/Builds/
+/Builds
+Builds
+/Library
+/Library/
+Library
+/Logs
+/Logs/
+Logs
+/UnityPackageManager
+/UnityPackageManager/
+UnityPackageManager
+
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp-Editor-firstpass.csproj
+Assembly-CSharp-firstpass.csproj
+Assembly-UnityScript-firstpass.unityproj
+Negozio Simulazione.sln
+Negozio Simulazione.userprefs
 
 # Crashlytics generated file
 crashlytics-build.properties
