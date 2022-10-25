@@ -61,16 +61,12 @@ sysinfo.txt
 *.unitypackage
 *.app
 
-/Builds
 .Builds/
 Builds
-/Library
 Library
 .Library/
-/Logs
 Logs
 .Logs/
-/UnityPackageManager
 UnityPackageManager
 .UnityPackageManager/
 
