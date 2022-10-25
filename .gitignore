@@ -22,6 +22,9 @@
 
 # Visual Studio cache directory
 .vs/
+vs/
+vs
+/vs/
 
 # Gradle cache directory
 .gradle/
@@ -59,16 +62,20 @@ sysinfo.txt
 *.app
 /Builds/
 /Builds
+.Builds/
 Builds
 /Library
 /Library/
 Library
+.Library/
 /Logs
 /Logs/
 Logs
+.Logs/
 /UnityPackageManager
 /UnityPackageManager/
 UnityPackageManager
+.UnityPackageManager/
 
 Assembly-CSharp.csproj
 Assembly-CSharp-Editor.csproj
