@@ -22,8 +22,7 @@
 
 # Visual Studio cache directory
 .vs/
-vs/
-vs
+
 
 
 # Gradle cache directory
@@ -61,22 +60,7 @@ sysinfo.txt
 *.unitypackage
 *.app
 
-.Builds/
-Builds
-Library
-.Library/
-Logs
-.Logs/
-UnityPackageManager
-.UnityPackageManager/
 
-Assembly-CSharp.csproj
-Assembly-CSharp-Editor.csproj
-Assembly-CSharp-Editor-firstpass.csproj
-Assembly-CSharp-firstpass.csproj
-Assembly-UnityScript-firstpass.unityproj
-Negozio Simulazione.sln
-Negozio Simulazione.userprefs
 
 # Crashlytics generated file
 crashlytics-build.properties
