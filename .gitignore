@@ -24,7 +24,7 @@
 .vs/
 vs/
 vs
-/vs/
+
 
 # Gradle cache directory
 .gradle/
@@ -60,20 +60,17 @@ sysinfo.txt
 *.aab
 *.unitypackage
 *.app
-/Builds/
+
 /Builds
 .Builds/
 Builds
 /Library
-/Library/
 Library
 .Library/
 /Logs
-/Logs/
 Logs
 .Logs/
 /UnityPackageManager
-/UnityPackageManager/
 UnityPackageManager
 .UnityPackageManager/
 
