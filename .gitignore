@@ -22,6 +22,34 @@
 
 # Visual Studio cache directory
 .vs/
+vs/
+vs
+/vs/
+
+.Builds/
+/Builds/
+Builds
+Builds/
+Library
+.Library/
+/Library/
+Library/
+Logs
+.Logs/
+/Logs/
+Logs/
+UnityPackageManager
+.UnityPackageManager/
+/UnityPackageManager/
+UnityPackageManager/
+
+Assembly-CSharp.csproj
+Assembly-CSharp-Editor.csproj
+Assembly-CSharp-Editor-firstpass.csproj
+Assembly-CSharp-firstpass.csproj
+Assembly-UnityScript-firstpass.unityproj
+Negozio Simulazione.sln
+Negozio Simulazione.userprefs
 
 # Gradle cache directory
 .gradle/
